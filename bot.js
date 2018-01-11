@@ -6,8 +6,8 @@
 /*/
 
 // Initializing discord.js
-const Discord = require("discord.js");
-const bot 		= new Discord.Client();
+const Discord = require('discord.js');
+const client = new Discord.Client();
 
 // Initializing other node modules
 const fs      = require("fs");

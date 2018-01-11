@@ -33,7 +33,7 @@ bot.on('ready', () => {
   console.log("The bot has started a session.\n");
 
   // You can change this to whatever
-	bot.user.setGame('On Rokucraft');
+	bot.user.setGame('Rokucraft');
 });
 
 // Message event - on each message the bot can read, do this:

@@ -1,22 +1,13 @@
 {
-  "name": "image-bot",
-  "version": "1.0.0",
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "Tevan",
-  "license": "MIT",
-  "homepage": "https://github.com/ChocolateMilk-Senpai/discord-image-bot",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ChocolateMilk-Senpai/discord-image-bot"
-  },
-  "bugs": {
-    "url": "https://github.com/ChocolateMilk-Senpai/discord-image-bot/issues"
-  },
   "dependencies": {
-    "discord.js": "^11.1.0",
-    "fs": "0.0.1-security"
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
   }
 }

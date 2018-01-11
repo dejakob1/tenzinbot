@@ -2,6 +2,9 @@
   "name": "image-bot",
   "version": "1.0.0",
   "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "author": "Tevan",
   "license": "MIT",
   "homepage": "https://github.com/ChocolateMilk-Senpai/discord-image-bot",

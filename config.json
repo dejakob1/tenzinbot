@@ -1,0 +1,16 @@
+{
+  "prefix": "!",
+  "token": "NDAxMDM2MDcyMjY5Nzc0ODU5.DTkVeA.CJlXls-Tbnpqb9S-jHdxuClyFkU",
+
+  "help": {
+    "command": "supersecrethelp"
+  },
+
+  "imageCreate": {
+    "command": "supersecretimagecreate"
+  },
+
+  "imageRemove": {
+    "command": "supersecretimageremove"
+  }
+}
